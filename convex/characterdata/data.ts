@@ -105,7 +105,7 @@ export const Descriptions = [
     position: { x: 4, y: 4 },
   },
   {
-    name: 'Pete, aka Nathaniel Tilney',
+    name: 'Pete',
     character: 'f7',
     memories: [
       {
