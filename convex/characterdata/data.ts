@@ -84,7 +84,7 @@ export const Descriptions = [
       },
       {
         type: 'plan' as const,
-        description: 'protect your secret and find out everyone else's secret.',
+        description: 'protect your secret and find out everyone elses secret.',
       },
     ],
     position: { x: 8, y: 6 },
@@ -137,7 +137,7 @@ export const Descriptions = [
         type: 'identity' as const,
         description: `You are Jasper, the sophisticated botanist whose garden is a sanctuary. While your plants might be exotic, it's Clara's free spirit that captivates you. However, your shared interests with Lillian often result in late-night garden walks. You dislike disorder and get SUPER excited about rare botanical discoveries.`,
       },
-       {
+      {
         type: 'relationship' as const,
         description: 'You like Clara Bingley',
         playerName: 'Clara Bingley',
